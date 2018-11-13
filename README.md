@@ -1,4 +1,4 @@
-# stream_logger_chalange
+# stream_logger_challenge
 
 `cd agent`
 `node agent.js`
