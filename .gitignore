@@ -1,9 +1,6 @@
-.idea
-
 # Logs
-master/logs/*
+logs/*
 agent/logs/*
-master/all.log
 
 # Runtime data
 pids
